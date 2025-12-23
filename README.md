@@ -19,10 +19,3 @@ cd ~/turtlesim_ws
 colcon build --packages-select turtlesim_bringup
 source install/setup.bash
 ros2 launch turtlesim_bringup catch_turtle_app.launch.py
-
-
-
-
-Aşağıdaki videoda sistemin çalışma şekli gösterilmektedir:
-
-Screencast from 23-12-2025 23:52:39.webm
