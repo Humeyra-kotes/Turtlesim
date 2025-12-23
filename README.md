@@ -20,6 +20,8 @@ colcon build --packages-select turtlesim_bringup
 source install/setup.bash
 ros2 launch turtlesim_bringup catch_turtle_app.launch.py
 
+
+
 Aşşağıdaki videoda launch dosyasının çalışmasının sonucu düğümlerin eş zamanlı çalışma şekli gösterilmektedir:
 
 
